@@ -1,0 +1,16 @@
+{
+  "company": "clearcover",
+  "ccde_team":
+    [{"name": "Braun",
+    "email": "braun@clearcover.com"},
+    {"name": "Mark",
+    "email": "mmcdonald@clearcover.com"},
+    {"name": "Paul",
+    "email": "preyna@clearcover.com"},
+    {"name": "Sagar",
+    "email": "sarora@clearcover.com"},
+    {"name": "Sarah",
+    "email": "ssemeen@clearcover.com"},
+    {"name": "Sayantani",
+     "email": ""}]
+}

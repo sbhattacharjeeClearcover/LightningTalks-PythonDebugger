@@ -1,0 +1,7 @@
+{
+  "my_details": {
+    "first_name": "Sayantani",
+    "last_name": "Bhattacharjee",
+    "email": "sbhattacharjeeclearcover.com"
+  }
+}
